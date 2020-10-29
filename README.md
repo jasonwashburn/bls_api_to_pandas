@@ -1,4 +1,4 @@
-# Accessing the Public Data API with Python (Jupyter Notebook & Pandas)
+# Accessing the Bureau of Labor and Statistics' Public Data API with Python (Jupyter Notebook & Pandas)
 
 I've updated the [API Version 2.0 Python Sample Code](https://www.bls.gov/developers/api_python.htm), on the bls.gov site to use Pandas/Jupyter Notebooks. The older sample code uses prettytables to output text files which aren't very functional for further analysis. This reworked example is also designed to be more user friendly and explanatory for novices looking to utilize the bls public API.
 
